@@ -12,6 +12,7 @@ some notes about python
 数值优化例程
 快速高效的 GPU 支持
 可嵌入，可移植到 iOS 和 Android 后端
+
   应用：
 机器学习、计算机视觉、信号处理、图片视频声音等
 
